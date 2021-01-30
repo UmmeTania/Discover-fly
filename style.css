@@ -120,3 +120,9 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#information-area{
+    display: none;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+}
